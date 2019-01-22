@@ -89,3 +89,8 @@ ENV/
 .ropeproject
 
 ex*.py
+*.swp
+*.un
+.py~
+..gitignore.un~
+.gitignore~
