@@ -91,6 +91,7 @@ ENV/
 ex*.py
 *.swp
 *.un
-.py~
+*.un~
+*.py~
 ..gitignore.un~
 .gitignore~
